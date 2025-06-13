@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on GOogle
 - 📫 How to reach me Instagram
-- 😄 Pronouns: Pinu
 - ⚡ Fun fact: School ke baad maje hein
 
 <!---
